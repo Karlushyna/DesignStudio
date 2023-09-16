@@ -1,1 +1,1 @@
-# DesignStudio-app
+# DesignStudio
