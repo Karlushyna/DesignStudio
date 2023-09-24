@@ -1,6 +1,5 @@
-#  React App for Design Studio
+# Getting Started with Create React App
 
-\
 
 ## Available Scripts
 
